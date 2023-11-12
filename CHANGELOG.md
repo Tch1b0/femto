@@ -1,11 +1,12 @@
-# For next release
+# Minor Release v0.5.0 (2023-07-16)
   * **Raphael Pour**
     * logging: document feature
     * **bugfix** terminal: Ignore unsupported special keys
     * session/terminal: add HOME+END key-binding
     * screen: add line numbers
+    * add highlighting for C
 
-*Not released yet*
+*Released by Raphael Pour <info@raphaelpour.de>*
 
 # Patch Release v0.4.2 (2021-01-28)
   * **Raphael Pour**
